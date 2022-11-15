@@ -1,0 +1,42 @@
+{
+    "projects":[
+        {
+            
+            "title":"Ecommerce Web-app",
+            "description":"A fully frontend and backend app for buying and selling products",
+            "url":"https://github.com/mustafagaut/things",
+            "src":"https://i.ibb.co/kK1s0pZ/product-page.png",
+            "src1":"./first page.png",
+            "date":"07/09/2022"
+        },
+        {
+            "date":"06/09/22",
+            "title":"Sudoku Game",
+            "description":"Sudoku Game using Java swing",
+            "url":"https://github.com/mustafagaut/sudokugame/tree/main/src/sudokugameswing",
+            "src":"https://res.cloudinary.com/dcbqban9y/image/upload/v1668433046/avatars/sudoku_swing_xbjzf3.png"
+
+        },{
+            "date":"05/08/22",
+            "title":"Discussion Portal",
+            "description":"A Discussion Portal where everyone can discuss all of there doubts by posting it to the portal",
+            "url":"https://github.com/mustafagaut/discussApp",
+            "src":"https://res.cloudinary.com/dcbqban9y/image/upload/v1668434998/avatars/discussion_Portal_wdo7yi.png"
+        }
+    ],
+    "education":[
+       { "title":"B,tech (CSE)",
+        "description":"IPS Academy,Indore",
+        "date":"2019-2023"
+    },
+        {
+         "title":"12th (PCM+cs)",
+         "description":"ABN Senior Secondary School",
+        "date":"2017-2019"
+    }
+        
+    ]
+
+
+  
+}
